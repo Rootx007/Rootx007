@@ -4,11 +4,11 @@
 
  <img src="https://komarev.com/ghpvc/?username=Kiran226242" alt="" />
  
-- 🔭 I’m currently working on MERN STACK INSTAGRA
+- 🔭 I’m currently working on Django
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn as much as js and python...
-- ⚡ Fun fact: I love to Play football!! 🤣
+- ⚡ Fun fact: I love to Play Cricket and football!! 🤣
 
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=Kiran226242&show_icons=true&theme=radical"/>
 
@@ -32,9 +32,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt= " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="   | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="    | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
