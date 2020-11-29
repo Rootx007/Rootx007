@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: Learn as much as js and python...
 - ⚡ Fun fact: I love to Play Cricket and football!! 🤣
 
-<img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=Kiran226242&show_icons=true&theme=radical"/>
+<img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=Kiran-sethu46&show_icons=true&theme=radical"/>
 
 ### Languages and Tools:
 
