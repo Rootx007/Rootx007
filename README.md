@@ -5,7 +5,7 @@
  <img src="https://komarev.com/ghpvc/?username=Kiran226242" alt="" />
  
 - 🔭 I’m currently working on c
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m into cybersecurity
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn as much as js and python...
 - ⚡ Fun fact: I love to Play Cricket and football!! 🤣
