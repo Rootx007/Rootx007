@@ -39,5 +39,5 @@
 
 <br />
 
-[website]: https://kiransethu46.herokuapp.com/
+[website]: https://kiran21.me
 [instagram]: https://www.instagram.com/kiran.sethu46/
