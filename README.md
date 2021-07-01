@@ -29,6 +29,10 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <br />
+<script src="https://tryhackme.com/badge/364756"></script>
+
+
+
 
 ### Connect with me:
 
