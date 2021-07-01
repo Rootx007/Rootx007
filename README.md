@@ -11,6 +11,8 @@
 - ⚡ Fun fact: I love to Play Cricket and football!!
 
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=Kiran-sethu46&show_icons=true&theme=radical"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/kiran.sethu46.png" alt="TryHackMe">
+
 
 ### Languages and Tools:
 
@@ -29,7 +31,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <br />
-<script src="https://tryhackme.com/badge/364756"></script>
+
 
 
 
