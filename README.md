@@ -8,8 +8,7 @@
 [![Rishi](https://github-widgetbox.vercel.app/api/profile?username=rootx007&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,xml,json,yaml,postgresql,mysql,haskell,powershell,markdown)](https://github.com/Jurredr/github-widgetbox)
----
+
 
 
 
